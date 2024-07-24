@@ -26,12 +26,12 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 
-<img src="digital-banking-web/Screen/1.png" />
+<img src="https://github.com/MitarReda/TP-Architecture-JEE-Angular/blob/0f7c778ff88f0ca9cc9a6aebd7fd85026e70cc27/digital-banking-web/Screen/1.png" />
 
-<img src="../Screen/2.png" />
+<img src="https://github.com/MitarReda/TP-Architecture-JEE-Angular/blob/0f7c778ff88f0ca9cc9a6aebd7fd85026e70cc27/digital-banking-web/Screen/2.png" />
 
-<img src="../Screen/3.png" />
+<img src="https://github.com/MitarReda/TP-Architecture-JEE-Angular/blob/0f7c778ff88f0ca9cc9a6aebd7fd85026e70cc27/digital-banking-web/Screen/3.png" />
 
-<img src="../Screen/4.png" />
+<img src="https://github.com/MitarReda/TP-Architecture-JEE-Angular/blob/0f7c778ff88f0ca9cc9a6aebd7fd85026e70cc27/digital-banking-web/Screen/4.png" />
 
-<img src="../Screen/5.png" />
+<img src="https://github.com/MitarReda/TP-Architecture-JEE-Angular/blob/0f7c778ff88f0ca9cc9a6aebd7fd85026e70cc27/digital-banking-web/Screen/5.png" />
